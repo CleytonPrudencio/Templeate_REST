@@ -1,0 +1,51 @@
+{
+  "data": [
+    {
+      "bio": "Steven Paul Jobs was an American businessman, inventor, and industrial designer. He was the co-founder, chairman, and chief executive officer (CEO) of Apple Inc.",
+      "image": "http://images1.folha.com.br/livraria/images/5/8/1172589-350x360.png",
+      "birthday": "1955-02-24T00:00:00Z",
+      "id": "97d16abc-1569-43e0-929b-cef05cd850fb",
+      "name": "Steve Jobs"
+    },
+    {
+      "bio": "Craig Federighi is Apple's senior vice president of Software Engineering. Federighi oversees the development of iOS, macOS and Apple's common operating system engineering teams.",
+      "image": "https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_craig_federighi.png ",
+      "birthday": "1969-05-27T00:00:00Z",
+      "id": "599df0e4-183c-4bfb-91c5-881d4550cd3f",
+      "name": "Craig Federighi"
+    },
+    {
+      "bio": "Sir Jonathan Paul Ive, KBE, is a British industrial designer who is currently the Chief Design Officer of Apple Inc.",
+      "image": "https://icdn2.digitaltrends.com/image/ive-575x657.jpg?ver=1",
+      "birthday": "1967-02-27T00:00:00Z",
+      "id": "145854f5-63a7-456a-9532-9f3a2fcf9875",
+      "name": "Jonathan Ive"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/378800000483764274/ebce94fb34c055f3dc238627a576d251_400x400.jpeg",
+      "birthday": "1960-11-01T00:00:00Z",
+      "id": "fe71a57c-fb1f-4f85-82df-3d6261b88a04",
+      "name": "Timothy Cook"
+    },
+    {
+      "bio": "Craig Federighi is Apple's senior vice president of Software Engineering. Federighi oversees the development of iOS, macOS and Apple's common operating system engineering teams.",
+      "image": "https://www.imore.com/sites/imore.com/files/field/image/2014/03/topic_craig_federighi.png ",
+      "birthday": "1969-05-27T00:00:00Z",
+      "id": "599df0e4-183c-4bfb-91c5-881d4550cd3f",
+      "name": "Craig Federighi"
+    },
+    {
+      "bio": "William Henry Gates III is an American business magnate, investor, author, and philanthropist. In 1975, Gates and Paul Allen co-founded Microsoft, which became the world's largest PC software company.",
+      "image": "https://ancabrales10.files.wordpress.com/2012/11/bill-gates-1.jpg",
+      "birthday": "1955-10-28T00:00:00Z",
+      "id": "9e98ff85-a11f-43de-ab87-f31f5bf0989c",
+      "name": "William Henry Gates"
+    },
+    {
+      "image": "https://gigaom.com/wp-content/uploads/sites/1/2012/10/apple-exec-scott-forstall.jpg?w=237",
+      "birthday": "1969-01-01T00:00:00Z",
+      "id": "94fb5c91-7fe4-449f-93de-6b493d2d981f",
+      "name": "Scott Forstall"
+    }
+  ]
+}
